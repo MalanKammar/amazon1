@@ -1,0 +1,62 @@
+[
+    {
+        "user_id" : 1,
+        "login" : "Malan",
+        "password" : "@Malan",
+        "user_name" : "Malan kammar",
+        "email" : "malan@gmail.com",
+        "phone_no" : 9988776655,
+        "aadress" : "Gadag",
+        "postcode" : 582112,
+        "city" : "Karnataka",
+        "country" : "India"
+    },
+    {
+        "user_id" : 2,
+        "login" : "kiran",
+        "password" : "Kiran5678",
+        "user_name" : "kiran Shetty",
+        "email" : "kiran@gmail.com",
+        "phone_no" : 7788665321,
+        "aadress" : "Banglore",
+        "postcode" : 211254,
+        "city" : "Karnataka",
+        "country" : "India"
+    },
+    {
+        "user_id" : 3,
+        "login" : "sudha",
+        "password" : "@Suddarth123",
+        "user_name" : "Sudha srini",
+        "email" : "sudha@gmail.com",
+        "phone_no" : 1122334455,
+        "aadress" : "Chandigarh",
+        "postcode" : 133301,
+        "city" : "Haryana",
+        "country" : "India"
+    },
+    {
+        "user_id" : 4,
+        "login" : "Roopa",
+        "password" : "@Roopa123",
+        "user_name" : "Roopa Rini",
+        "email" : "roopa@gmail.com",
+        "phone_no" : 9975856525,
+        "aadress" : "Gandhi Nagar",
+        "postcode" : 382002,
+        "city" : "Gujrat",
+        "country" : "India"
+    },
+    {
+        "user_id" : 5,
+        "login" : "Suresh57",
+        "password" : "@Suresh7890",
+        "user_name" : "Suresh Kapoor ",
+        "email" : "ksuresh@gmail.com",
+        "phone_no" : 9910991096,
+        "aadress" : "Jaipur",
+        "postcode" : 302001,
+        "city" : "Rajasthan",
+        "country" : "India"
+    }
+]

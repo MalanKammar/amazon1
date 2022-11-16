@@ -1,0 +1,16 @@
+[
+    {
+        "admin_id":"a01",
+        "admin_name":"rahul",
+        "admin_login":"rahulr",
+        "admin_password":"rahul1234",
+        "admin_email":"rahul@gmail.com"
+    },
+    {
+        "admin_id":"a01",
+        "admin_name":"rohith",
+        "admin_login":"rohit",
+        "admin_password":"rohit5678",
+        "admin_email":"rohit@gmail.com"
+    }
+]

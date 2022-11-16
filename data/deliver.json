@@ -1,0 +1,38 @@
+[
+    {
+        "deliver_id":"d1",
+        "date_of_delivery":"22/10/2022",
+        "time_of_delivery":"11:00AM",
+        "product_id":"f01",
+        "product_price":"Rs. 824/-",
+        "user_id" : 2,
+        "delivery_status":"Delivered"
+    },
+    {
+        "deliver_id":"d2",
+        "date_of_delivery":"22/10/2022",
+        "time_of_delivery":"12:00AM",
+        "product_id":"f02",
+        "product_price":"Rs. 1846/-",
+        "user_id" : 5,
+        "delivery_status":"Delivered"
+    },
+    {
+        "deliver_id":"d3",
+        "date_of_delivery":"21/10/2022",
+        "time_of_delivery":"09:00AM",
+        "product_id":"f05",
+        "product_price":"Rs. 21550/-",
+        "user_id" : 3,
+        "delivery_status":"Shipped"
+    },
+    {
+        "deliver_id":"d4",
+        "date_of_delivery":"17/10/2022",
+        "time_of_delivery":"11:59PM",
+        "product_id":"a01",
+        "product_price":"Rs. 1799/-",
+        "user_id" : 1,
+        "delivery_status":"Out For Delivery"
+    }
+]
